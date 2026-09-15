@@ -286,7 +286,7 @@ const EMBEDDED_PEOPLE = [
   {
     "name": "gaybez",
     "description": "im super gay :>>",
-    "pfp": "https://media.discordapp.net/attachments/1522725378626552012/1548867289137291294/382EFBBD-5443-45EA-9726-E9EA79F8894D.png?ex=6aa89e92&is=6aa74d12&hm=21231aada9996cb7fc53b4606193725b6cd345ca474a0858556b0da4e4e4f64e&=&format=webp&quality=lossless",
+    "pfp": "https://media.discordapp.net/attachments/1522725378626552012/1548867289137291294/382EFBBD-5443-45EA-9726-E9EA79F8894D.png?ex=6aa9f012&is=6aa89e92&hm=7e7ffb78fe2a4c1464f3682d3b505c2a88ec5ed5d24484024e15c521fb9f2c94&=&format=webp&quality=lossless",
     "role": "femboy"
   },
   {
