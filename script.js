@@ -279,20 +279,14 @@ const particlesContainer = document.getElementById("particles-js");
 const EMBEDDED_PEOPLE = [
   {
     "name": "unity",
-    "description": "i pro skidder",
-    "pfp": "https://media.discordapp.net/attachments/1464130653153923103/1544793782594306199/IMG_8788.jpg?ex=6aa99ed2&is=6aa84d52&hm=23ca6721dc771f1b9480dcfccb815c328080360dbabb9c5d4cbd87b6dd63dd23&=&format=webp",
-    "role": "harmful"
-  },
-  {
-    "name": "gaybez",
-    "description": "im super gay :>>",
-    "pfp": "https://media.discordapp.net/attachments/1522725378626552012/1548867289137291294/382EFBBD-5443-45EA-9726-E9EA79F8894D.png?ex=6aa9f012&is=6aa89e92&hm=7e7ffb78fe2a4c1464f3682d3b505c2a88ec5ed5d24484024e15c521fb9f2c94&=&format=webp&quality=lossless",
-    "role": "femboy"
+    "description": "we harmful modders :>",
+    "pfp": "https://media.discordapp.net/attachments/1522725378626552012/1548866772931977277/34ece49e88aa4bd28924d0e65497f9e1.png?ex=6aa89e17&is=6aa74c97&hm=8a8d22e5535f3ee18af992024f46daee0de997bd1c89e67b27921fad03ab7af3&=&format=webp&quality=lossless",
+    "role": "bestfriends"
   },
   {
     "name": "syri",
     "description": "i love boobys",
-    "pfp": "https://media.discordapp.net/attachments/1464130653153923103/1548895344601862205/IMG_7555.jpg?ex=6aa96173&is=6aa80ff3&hm=b6b222d284f1227eb19d67156f9dbcf28ccf52419a0c4089ddbb5140ff7575e9&=&format=webp",
+    "pfp": "https://media.discordapp.net/attachments/1464130653153923103/1543428619089617009/lp_image.jpg?ex=6aa89bea&is=6aa74a6a&hm=ec4a4afff8aad67fb40e16918b95f885fc059baf077b3d95b7a7b20ec6cd29d2&=&format=webp&width=1280&height=1280",
     "role": "femboy"
   },
   {
@@ -307,6 +301,30 @@ const EMBEDDED_PEOPLE = [
     "pfp": "https://images-ext-1.discordapp.net/external/saRtboCJdHriNmL_t_urVgSEDqlY50JA0XPS274gLG0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1519866644191641715/06c884dabc861a04e83b86cf4a52c8e1.png?format=webp&quality=lossless",
     "role": "femboy"
   },
+  {
+    "name": "makilah",
+    "description": "aww so cute",
+    "pfp": "https://media.discordapp.net/attachments/1495496451533312122/1540774079051604112/IMG_6883.png?ex=6aa82e2e&is=6aa6dcae&hm=3141b353d5b825a2eaaded4da49d90a6fbf02770c82f17d234a6dceb5c4814eb&=&format=webp&quality=lossless",
+    "role": "mommy"
+  },
+  {
+    "name": "crazy 764",
+    "description": "i like touching ray",
+    "pfp": "https://media.discordapp.net/attachments/1522725378626552012/1548867289137291294/382EFBBD-5443-45EA-9726-E9EA79F8894D.png?ex=6aa94752&is=6aa7f5d2&hm=a27f5e988aee64141993906fe365b5c4bcc972dd0f62f9ac9666d634eb3a7467&=&format=webp&quality=lossless",
+    "role": "bestfriends"
+  },
+  {
+    "name": "gay boy billy",
+    "description": "number 1 fbi fed",
+    "pfp": "https://cdn.discordapp.com/attachments/1531488818841129010/1549220526742831224/discord-avatar-512px_3.png?ex=6aa9e78c&is=6aa8960c&hm=be72e6a6088b2c6956237bb9d737468a9b9ebd70419f90412fa0fdc96c3571a1&",
+    "role": "larp"
+  },
+  {
+    "name": "pringles",
+    "description": "i farted in a Aldi's bathroom",
+    "pfp": "https://media.discordapp.net/attachments/1549249865744126023/1549250119814348852/Screenshot_2026-09-14_194604.png?ex=6aaa031c&is=6aa8b19c&hm=88e820819547a79f64ee54ead773508e08770b0b96f4a53529c2a25cedcf453b&=&format=webp&quality=lossless",
+    "role": "cuck"
+  }
 ];
 
 function mapPeople(list) {
