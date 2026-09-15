@@ -281,7 +281,7 @@ const EMBEDDED_PEOPLE = [
     "name": "unity",
     "description": "we harmful modders :>",
     "pfp": "https://media.discordapp.net/attachments/1522725378626552012/1548866772931977277/34ece49e88aa4bd28924d0e65497f9e1.png?ex=6aa89e17&is=6aa74c97&hm=8a8d22e5535f3ee18af992024f46daee0de997bd1c89e67b27921fad03ab7af3&=&format=webp&quality=lossless",
-    "role": "bestfriends"
+    "role": "harmful"
   },
   {
     "name": "syri",
@@ -302,16 +302,10 @@ const EMBEDDED_PEOPLE = [
     "role": "femboy"
   },
   {
-    "name": "makilah",
-    "description": "aww so cute",
-    "pfp": "https://media.discordapp.net/attachments/1495496451533312122/1540774079051604112/IMG_6883.png?ex=6aa82e2e&is=6aa6dcae&hm=3141b353d5b825a2eaaded4da49d90a6fbf02770c82f17d234a6dceb5c4814eb&=&format=webp&quality=lossless",
-    "role": "mommy"
-  },
-  {
     "name": "crazy 764",
     "description": "i like touching ray",
     "pfp": "https://media.discordapp.net/attachments/1522725378626552012/1548867289137291294/382EFBBD-5443-45EA-9726-E9EA79F8894D.png?ex=6aa94752&is=6aa7f5d2&hm=a27f5e988aee64141993906fe365b5c4bcc972dd0f62f9ac9666d634eb3a7467&=&format=webp&quality=lossless",
-    "role": "bestfriends"
+    "role": "femboy"
   },
   {
     "name": "gay boy billy",
