@@ -286,7 +286,7 @@ const EMBEDDED_PEOPLE = [
   {
     "name": "syri",
     "description": "i love boobys",
-    "pfp": "https://media.discordapp.net/attachments/1464130653153923103/1543428619089617009/lp_image.jpg?ex=6aa89bea&is=6aa74a6a&hm=ec4a4afff8aad67fb40e16918b95f885fc059baf077b3d95b7a7b20ec6cd29d2&=&format=webp&width=1280&height=1280",
+    "pfp": "https://media.discordapp.net/attachments/1464130653153923103/1544794354760032427/IMG_8784.jpg?ex=6aa99f5b&is=6aa84ddb&hm=b29998948ade0498d7cacd9c4b448d8ba1f904c44263e9fb0cf1dfe597d26d8c&=&format=webp",
     "role": "femboy"
   },
   {
