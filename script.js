@@ -279,14 +279,20 @@ const particlesContainer = document.getElementById("particles-js");
 const EMBEDDED_PEOPLE = [
   {
     "name": "unity",
-    "description": "we harmful modders :>",
+    "description": "i pro skidder",
     "pfp": "https://media.discordapp.net/attachments/1464130653153923103/1544793782594306199/IMG_8788.jpg?ex=6aa99ed2&is=6aa84d52&hm=23ca6721dc771f1b9480dcfccb815c328080360dbabb9c5d4cbd87b6dd63dd23&=&format=webp",
     "role": "harmful"
   },
   {
+    "name": "gaybez",
+    "description": "im super gay :>>",
+    "pfp": "https://media.discordapp.net/attachments/1522725378626552012/1548867289137291294/382EFBBD-5443-45EA-9726-E9EA79F8894D.png?ex=6aa9f012&is=6aa89e92&hm=7e7ffb78fe2a4c1464f3682d3b505c2a88ec5ed5d24484024e15c521fb9f2c94&=&format=webp&quality=lossless",
+    "role": "femboy"
+  },
+  {
     "name": "syri",
     "description": "i love boobys",
-    "pfp": "https://media.discordapp.net/attachments/1464130653153923103/1544794354760032427/IMG_8784.jpg?ex=6aa99f5b&is=6aa84ddb&hm=b29998948ade0498d7cacd9c4b448d8ba1f904c44263e9fb0cf1dfe597d26d8c&=&format=webp",
+    "pfp": "https://media.discordapp.net/attachments/1464130653153923103/1548895344601862205/IMG_7555.jpg?ex=6aa96173&is=6aa80ff3&hm=b6b222d284f1227eb19d67156f9dbcf28ccf52419a0c4089ddbb5140ff7575e9&=&format=webp",
     "role": "femboy"
   },
   {
@@ -306,7 +312,7 @@ const EMBEDDED_PEOPLE = [
     "description": "Likes femboys and loves to skid",
     "pfp": "https://media.discordapp.net/attachments/1448084674164293802/1549567829018288158/IMG_3438.jpg?ex=6aab2b00&is=6aa9d980&hm=fb730dff59f4e4080fc94a4c0b173c6631c711991ac36617b634f4f78f18e402&=&format=webp",
     "role": "cuck"
-  }  
+  }
 ];
 
 function mapPeople(list) {
