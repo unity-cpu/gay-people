@@ -279,7 +279,7 @@ const particlesContainer = document.getElementById("particles-js");
 const EMBEDDED_PEOPLE = [
   {
     "name": "unity",
-    "description": "we harmful modders :>",
+    "description": "i pro skidder",
     "pfp": "https://media.discordapp.net/attachments/1464130653153923103/1544793782594306199/IMG_8788.jpg?ex=6aa99ed2&is=6aa84d52&hm=23ca6721dc771f1b9480dcfccb815c328080360dbabb9c5d4cbd87b6dd63dd23&=&format=webp",
     "role": "harmful"
   },
