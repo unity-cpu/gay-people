@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <!-- Basic page metadata -->
+    <meta
+      name="description"
+      content="A stylish friend roster."
+    />
+
+    <!-- Discord / social embed metadata -->
+    <meta property="og:site_name" content="friend roster" />
+    <meta property="og:title" content="friend roster" />
+    <meta
+      property="og:description"
+      content="A stylish friend roster."
+    />
+    <meta property="og:type" content="website" />
+
+    <!-- Page icon -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+
+    <!-- Mobile / viewport settings -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=yes"
+    />
+
+    <!-- Browser tab title -->
+    <title>gay roster</title>
+
+    <!-- Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Trispace&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Main stylesheet -->
+    <link href="style.css" rel="stylesheet" />
+  </head>
+
+  <body>
+    <!-- Grain overlay -->
+    <div class="grain"></div>
+
+    <!-- Particle background -->
+    <div id="particles-js"></div>
+
+    <!-- Landing screen -->
+    <div id="landing">
+
+      <!-- Matrix background -->
+      <div id="landing-matrix-wrapper">
+        <canvas id="matrix-canvas"></canvas>
+      </div>
+
+      <!-- ASCII logo -->
+      <div class="ascii-wrapper">
+        <pre class="ascii-art">
+  ▄████  ▄▄▄     ▓██   ██▓    ██▓███  ▓█████  ▒█████   ██▓███   ██▓    ▓█████ 
+ ██▒ ▀█▒▒████▄    ▒██  ██▒   ▓██░  ██▒▓█   ▀ ▒██▒  ██▒▓██░  ██▒▓██▒    ▓█   ▀ 
+▒██░▄▄▄░▒██  ▀█▄   ▒██ ██░   ▓██░ ██▓▒▒███   ▒██░  ██▒▓██░ ██▓▒▒██░    ▒███   
+░▓█  ██▓░██▄▄▄▄██  ░ ▐██▓░   ▒██▄█▓▒ ▒▒▓█  ▄ ▒██   ██░▒██▄█▓▒ ▒▒██░    ▒▓█  ▄ 
+░▒▓███▀▒ ▓█   ▓██▒ ░ ██▒▓░   ▒██▒ ░  ░░▒████▒░ ████▓▒░▒██▒ ░  ░░██████▒░▒████▒
+ ░▒   ▒  ▒▒   ▓▒█░  ██▒▒▒    ▒▓▒░ ░  ░░░ ▒░ ░░ ▒░▒░▒░ ▒▓▒░ ░  ░░ ▒░▓  ░░░ ▒░ ░
+  ░   ░   ▒   ▒▒ ░▓██ ░▒░    ░▒ ░      ░ ░  ░  ░ ▒ ▒░ ░▒ ░     ░ ░ ▒  ░ ░ ░  ░
+░ ░   ░   ░   ▒   ▒ ▒ ░░     ░░          ░   ░ ░ ░ ▒  ░░         ░ ░      ░   
+      ░       ░  ░░ ░                    ░  ░    ░ ░               ░  ░   ░  ░
+                  ░ ░                                                         
+        </pre>
+      </div>
+
+      <!-- Landing text -->
+      <div id="landing-text">
+        CLICK TO SEE ROSTER
+      </div>
+    </div>
+
+    <!-- Main roster -->
+    <div id="main">
+
+      <!-- Main title -->
+      <div class="title">
+        gay roster
+      </div>
+
+      <!-- Roster container -->
+      <div class="container">
+        <div id="roster-container"></div>
+      </div>
+
+    </div>
+
+    <!-- Background music -->
+    <audio
+      id="music"
+      src="bluebands.mp3"
+      loop
+    ></audio>
+
+    <!-- Particles.js -->
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
+    <!-- Your roster JavaScript -->
+    <script src="script.js"></script>
+  </body>
+</html>
