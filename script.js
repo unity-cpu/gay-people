@@ -307,6 +307,12 @@ const EMBEDDED_PEOPLE = [
     "pfp": "https://images-ext-1.discordapp.net/external/saRtboCJdHriNmL_t_urVgSEDqlY50JA0XPS274gLG0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1519866644191641715/06c884dabc861a04e83b86cf4a52c8e1.png?format=webp&quality=lossless",
     "role": "femboy"
   },
+  {
+    "name": "frosted",
+    "description": "Likes femboys and loves to skid",
+    "pfp": "https://media.discordapp.net/attachments/1448084674164293802/1549567829018288158/IMG_3438.jpg?ex=6aab2b00&is=6aa9d980&hm=fb730dff59f4e4080fc94a4c0b173c6631c711991ac36617b634f4f78f18e402&=&format=webp",
+    "role": "cuck"
+  },
 ];
 
 function mapPeople(list) {
