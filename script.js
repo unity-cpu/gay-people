@@ -315,9 +315,9 @@ const EMBEDDED_PEOPLE = [
   },
   {
     "name": "gay boy billy",
-    "description": "number 1 fbi fed",
+    "description": "i love my daddy frosted <3",
     "pfp": "https://cdn.discordapp.com/attachments/1531488818841129010/1549220526742831224/discord-avatar-512px_3.png?ex=6aa9e78c&is=6aa8960c&hm=be72e6a6088b2c6956237bb9d737468a9b9ebd70419f90412fa0fdc96c3571a1&",
-    "role": "larp"
+    "role": "cuck"
   }
 ];
 
