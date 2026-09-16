@@ -101,7 +101,7 @@ const boxClasses = {
   larp: "larp-box",
   femboy: "femboy-box",
   cuck: "cuck-box",
-  thecoopers: "thecoopers-box",
+  pineapple: "pineapple-box",
   member: "member-box",
 };
 
