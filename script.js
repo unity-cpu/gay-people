@@ -73,7 +73,7 @@ const roleMap = {
   larp:        { title: "LARP",         cssClass: "larp-title" },
   femboy:      { title: "FEMBOY",       cssClass: "femboy-title" },
   cuck:        { title: "CUCK",         cssClass: "cuck-title" },
-  thecoopers:  { title: "The Coopers",  cssClass: "thecoopers-title" },
+  pineapple:  { title: "pineapple",  cssClass: "pineapple-title" },
   member:      { title: "FRIENDS",      cssClass: "member-title" },
 };
 
@@ -87,7 +87,7 @@ const nameClasses = {
   larp: "larp-name",
   femboy: "femboy-name",
   cuck: "cuck-name",
-  thecoopers: "thecoopers-name",
+  pineapple: "pineapples-name",
   member: "member-name",
 };
 
@@ -121,7 +121,7 @@ function buildRoster(allPeople) {
 
   const order = [
     "mommy", "harmful", "coOwner", "bunnies", "admin", "skid",
-    "larp", "femboy", "cuck", "thecoopers", "member",
+    "larp", "femboy", "cuck", "pineapple", "member",
   ];
 
   order.forEach((roleKey) => {
@@ -318,6 +318,12 @@ const EMBEDDED_PEOPLE = [
     "description": "i love my daddy frosted <3",
     "pfp": "https://cdn.discordapp.com/attachments/1531488818841129010/1549220526742831224/discord-avatar-512px_3.png?ex=6aa9e78c&is=6aa8960c&hm=be72e6a6088b2c6956237bb9d737468a9b9ebd70419f90412fa0fdc96c3571a1&",
     "role": "cuck"
+  },
+  {
+    "name": "orixo",
+    "description": "i like pineapples🥺",
+    "pfp": "https://media.discordapp.net/attachments/1549592042701856858/1549592594760335461/Screenshot_2026-09-14_014754.png?ex=6aab4210&is=6aa9f090&hm=f2de593a5e934e1572ab1100384744494b723aea9e0c9a1890030b6b4ff46eb8&=&format=webp&quality=lossless",
+    "role": "pineapple"
   }
 ];
 
