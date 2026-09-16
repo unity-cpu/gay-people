@@ -323,7 +323,7 @@ const EMBEDDED_PEOPLE = [
     "name": "orixo",
     "description": "i like pineapples🥺",
     "pfp": "https://media.discordapp.net/attachments/1549592042701856858/1549592594760335461/Screenshot_2026-09-14_014754.png?ex=6aab4210&is=6aa9f090&hm=f2de593a5e934e1572ab1100384744494b723aea9e0c9a1890030b6b4ff46eb8&=&format=webp&quality=lossless",
-    "role": "pineapple"
+    "role": "femboy"
   }
 ];
 
