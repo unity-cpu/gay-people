@@ -312,6 +312,12 @@ const EMBEDDED_PEOPLE = [
     "description": "Likes femboys and loves to skid",
     "pfp": "https://media.discordapp.net/attachments/1448084674164293802/1549567829018288158/IMG_3438.jpg?ex=6aab2b00&is=6aa9d980&hm=fb730dff59f4e4080fc94a4c0b173c6631c711991ac36617b634f4f78f18e402&=&format=webp",
     "role": "cuck"
+  },
+  {
+    "name": "gay boy billy",
+    "description": "number 1 fbi fed",
+    "pfp": "https://cdn.discordapp.com/attachments/1531488818841129010/1549220526742831224/discord-avatar-512px_3.png?ex=6aa9e78c&is=6aa8960c&hm=be72e6a6088b2c6956237bb9d737468a9b9ebd70419f90412fa0fdc96c3571a1&",
+    "role": "larp"
   }
 ];
 
