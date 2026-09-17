@@ -324,7 +324,19 @@ const EMBEDDED_PEOPLE = [
     "description": "i like pineapples🥺",
     "pfp": "https://media.discordapp.net/attachments/1549592042701856858/1549592594760335461/Screenshot_2026-09-14_014754.png?ex=6aab4210&is=6aa9f090&hm=f2de593a5e934e1572ab1100384744494b723aea9e0c9a1890030b6b4ff46eb8&=&format=webp&quality=lossless",
     "role": "femboy"
-  }
+  },
+  {
+    "name": "wifi",
+    "description": "i love taking dick in my ass",
+    "pfp": "https://images-ext-1.discordapp.net/external/-tCwze05SC-Pk61EEPxqVbCfniiTcyU7f1RPb_000_w/%3Fsize%3D512/https/cdn.discordapp.com/avatars/1546226529443254415/c0677c242ff923ba344cac5c3a88d4a7.png?format=webp&quality=lossless",
+    "role": "skid"
+  },
+  {
+    "name": "XQ",
+    "description": "i love my dada unity",
+    "pfp": "https://images-ext-1.discordapp.net/external/HDxMlfRGhjK5Y0N5rZ4oU1c48O_3p3sKpo4XJIAWNQk/%3Fsize%3D512/https/cdn.discordapp.com/avatars/1397002661437636680/47d4cc3f4200d57471535b6a2121a53b.png?format=webp&quality=lossless",
+    "role": "larp"
+  },
 ];
 
 function mapPeople(list) {
